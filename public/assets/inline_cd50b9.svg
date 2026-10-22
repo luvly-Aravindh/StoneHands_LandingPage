@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 667.56 170.04">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Onest-Bold, Onest;
+        font-size: 72px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-family: Onest-Light, Onest;
+        font-weight: 300;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 22.42px;
+      }
+
+      .cls-3 {
+        font-family: Onest-SemiBold, Onest;
+        font-weight: 600;
+      }
+
+      .cls-4 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        fill: #e60022;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: .02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-6" d="M1.07,56.02h0c0,3.89,1.58,7.61,4.37,10.32l23.25,22.49c.65.63,1.74.17,1.74-.74v-38.82c0-6.37,5.16-11.53,11.53-11.53h43.04c.25,0,.48-.09.67-.25l32.96-28.44c.2-.17.08-.49-.18-.49l-55.21-.18h-8.24c-3.99,0-7.84,1.43-10.86,4.03L6.07,45.14c-3.17,2.73-4.99,6.7-4.99,10.88Z"/>
+        <path class="cls-6" d="M117.66,77.83h0c0-3.89-1.58-7.61-4.37-10.32l-23.25-22.49c-.65-.63-1.74-.17-1.74.74v38.82c0,6.37-5.16,11.53-11.53,11.53h-43.04c-.25,0-.48.09-.67.25L.1,124.81c-.2.17-.08.49.18.49l55.21.18h8.24c3.99,0,7.84-1.43,10.86-4.03l38.08-32.75c3.17-2.73,4.99-6.7,4.99-10.88Z"/>
+      </g>
+      <text class="cls-1" transform="translate(153.05 61.49)"><tspan class="cls-9" x="0" y="0">S</tspan><tspan x="46.8" y="0">TORM</tspan><tspan class="cls-5" x="259.63" y="0">W</tspan><tspan class="cls-4" x="329.76" y="0">A</tspan><tspan x="377.35" y="0">TER</tspan><tspan x="0" y="64">BARRIER</tspan></text>
+      <g>
+        <text class="cls-2" transform="translate(161.82 163.06)"><tspan x="0" y="0">P</tspan><tspan class="cls-7" x="14.08" y="0">O</tspan><tspan x="31.07" y="0">WERD </tspan><tspan class="cls-8" x="103.34" y="0">B</tspan><tspan x="117.77" y="0">Y </tspan></text>
+        <text class="cls-3" transform="translate(300.88 163.25)"><tspan class="cls-8" x="0" y="0">S</tspan><tspan x="14.51" y="0">TONE HAN</tspan><tspan class="cls-10" x="131.14" y="0">D</tspan><tspan x="147.77" y="0">S</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

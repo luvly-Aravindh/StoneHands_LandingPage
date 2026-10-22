@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  font-family: Onest, sans-serif !important;
+  background: #f3f3f3;
+}
+
+wistia-player[media-id="5jl4731o8f"]:not(:defined) {
+  background: center / contain no-repeat
+    url("https://fast.wistia.com/embed/medias/5jl4731o8f/swatch");
+  display: block;
+  filter: blur(5px);
+  padding-top: 56.25%;
+}
+
+/* Hero background video: scale the 16:9 player to cover the section */
+.hero-video-bg {
+  container-type: size;
+}
+.hero-video-bg > .hero-video-frame {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: max(100cqw, 177.78cqh);
+  transform: translate(-50%, -50%);
+}
